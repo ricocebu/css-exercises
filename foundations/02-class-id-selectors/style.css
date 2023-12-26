@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 100, 100);
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+
+#firsteven{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.two {
+    font-size: 24px;
+}
+
+#secondeven {
+    background-color: hsl(120, 100%, 50%);
+    font-size: 24px;
+    font-weight: 900;
+}
